@@ -1,4 +1,7 @@
 # digital-portfolio
+
+## Languages
+
 1. JavaScript
 2. HTML
 3. CSS
@@ -8,3 +11,7 @@
 - [ ] Add CSS to the project
 - [ ] Add JS to the project
 - [ ] Add sense to the project
+
+## Contributions
+
+James McGlade
