@@ -25,3 +25,11 @@
 .mainContent{
     text-align: center;
 }
+
+.box {
+    box-sizing: border-box;
+    padding: 25px 50px;  /* top + bottom & left = right  */
+    padding: 50px; /* everything */
+    padding: 50px 25px 30px; /*top, right & left, bottom */
+    padding: 10px 15px 10px 17px; /*top, right, bottom, left */
+}
